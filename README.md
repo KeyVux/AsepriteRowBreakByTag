@@ -1,2 +1,2 @@
 # AsepriteRowBreakByTag
-Its break export spritesheet row by tag
+It breaks export spritesheet row by tag
